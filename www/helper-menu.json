@@ -1,0 +1,32 @@
+[
+  {
+  "id": 101,
+  "name": "Learn how to MIG Weld Helper",
+  "link": "https://play.google.com/store/apps/details?id=com.venturads.LearnHowToMigWeld"
+},
+{
+  "id": 102,
+  "name": "Learn how to TIG Weld Helper",
+  "link": "https://play.google.com/store/apps/details?id=com.venturads.LearnHowToTIGWeld" 
+},
+{
+  "id": 103,
+  "name": "CNC Machinist Helper",
+  "link": "https://play.google.com/store/apps/details?id=com.venturads.CNCHelperPlay" 
+},
+{
+  "id": 104,
+  "name": "Solidworks Helper",
+  "link": "https://play.google.com/store/apps/details?id=com.venturads.albert.SolidworksHelper" 
+},
+{
+  "id": 105,
+  "name": "Ring Jumper",
+  "link": "https://play.google.com/store/apps/details?id=com.venturads.RingJumper" 
+},
+{
+  "id": 106,
+  "name": "Sheet Metal Helper",
+  "link": "https://play.google.com/store/apps/details?id=com.venturads.SheetMetalHelper" 
+}
+]
